@@ -1,0 +1,10 @@
+.filter-field {
+    display: flex;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    align-items: center;
+}
+
+.filter-title {
+    margin-right: 10px;
+}
