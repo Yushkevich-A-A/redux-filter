@@ -1,0 +1,20 @@
+.task-item {
+    display: flex;
+    align-items: center;
+}
+
+.item-content, 
+.item-price {
+    font-weight: 600;
+    margin-right: 5px;
+}
+
+/* .button-edit */
+
+.button-edit::before {
+    content: '\270E';
+}
+
+.button-delete::before {
+    content: '\2716';
+}
